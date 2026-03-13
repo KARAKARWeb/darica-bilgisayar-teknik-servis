@@ -1,6 +1,8 @@
-# Gebze Bilgisayar Teknik Servis Web Sitesi
+# Darıca Bilgisayar Teknik Servis
 
 Modern, performanslı ve SEO optimize edilmiş Next.js 16 tabanlı bilgisayar teknik servis web sitesi.
+
+**Domain:** daricabilgisayarteknikservis.com.tr
 
 ## 🚀 Özellikler
 
