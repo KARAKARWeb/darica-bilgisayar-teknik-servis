@@ -1,0 +1,59 @@
+{
+  "hizmetlerimiz": {
+    "title": "Hizmetlerimiz",
+    "description": "Darıca’da bireysel kullanıcılar ve işletmeler için planlanan teknik destek, bakım, onarım ve müdahale çözümlerini bu sayfada inceleyebilirsiniz.",
+    "seo": {
+      "title": "Hizmetlerimiz",
+      "description": "Teknik Servis hizmetlerini keşfedin. Yerinde destek, uzaktan yardım, kurumsal çözümler ve hızlı müdahale seçenekleri burada.",
+      "keywords": []
+    }
+  },
+  "fiyatlarimiz": {
+    "seo": {
+      "title": "Web Tasarım Fiyatları - 2026",
+      "description": "Web tasarım fiyatlarını etkileyen proje kapsamı, sayfa yapısı, içerik derinliği ve teknik ihtiyaç kalemlerini açık biçimde değerlendirin.\n",
+      "keywords": []
+    },
+    "title": "Web Tasarım Fiyatlarımız",
+    "subtitle": "İhtiyaca göre şekillenen ücret yapısını netleştiren bilgilendirme alanı.",
+    "comparison": {
+      "title": "Paket Özellik Karşılaştırması",
+      "description": "Paketlerin Özelliklerini detaylı olarak karşılaştırın ve size en uygun olanı seçin."
+    }
+  },
+  "hizmet-bolgeleri": {
+    "title": "Hizmet Bölgelerimiz",
+    "subtitle": "Darıca genelinde mahalle bazlı erişim planıyla yürüttüğümüz teknik servis bölgelerini ve destek kapsamını bu sayfada bulabilirsiniz.",
+    "seo": {
+      "title": "Hizmet Bölgelerimiz",
+      "description": "Teknik Servis hizmet bölgelerini inceleyin. Mahalle bazlı teknik destek kapsamı ve yerel servis erişimi burada.",
+      "keywords": []
+    }
+  },
+  "teklif-al": {
+    "title": "Teklif Al",
+    "description": "İhtiyacınıza uygun teknik destek planı ve servis değerlendirmesi için teklif talebinizi hızlı biçimde bu sayfa üzerinden iletebilirsiniz.",
+    "seo": {
+      "title": "Fiyat Teklifi Al",
+      "description": "Teklif al sayfasından yerinde destek, kurumsal bakım ve teknik servis ihtiyaçlarınız için başvuru yapın.",
+      "keywords": []
+    }
+  },
+  "fiyat-hesapla": {
+    "title": "Fiyat Hesaplama",
+    "description": "Proje kapsamına göre maliyet öngörüsü sunan pratik değerlendirme alanı.",
+    "seo": {
+      "title": "Web Tasarım Fiyat Hesaplama",
+      "description": "Web tasarım fiyat hesaplama alanında proje türü, içerik kapsamı ve teknik gereksinimlere göre yaklaşık maliyet öngörüsü oluşturun.\n",
+      "keywords": []
+    }
+  },
+  "gizlilik-politikasi": {
+    "title": "Gizlilik Politikası",
+    "subtitle": "Toplanan veriyi, saklama süresini ve paylaşım sınırlarını açık yazar; haklarınızı net biçimde belirtiriz."
+  },
+  "cerez-politikasi": {
+    "title": "Çerez Politikası",
+    "subtitle": "Çerez türlerini, amaçlarını ve tercih yönetimini anlaşılır anlatır; ölçüm araçlarını şeffaf şekilde listeleriz."
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "Darıca Bilgisayar Teknik Servis",
+      "subtitle": "Darıca Bilgisayar Teknik Servisi, arızalanan masaüstü ve dizüstü sistemler için hızlı teşhis, güven veren onarım ve yerinde destek sunan yerel teknik çözüm merkezidir.",
+      "whatsappText": "WhatsApp Destek",
+      "phoneText": "0 545 181 4040",
+      "cities": [
+        {
+          "name": "Darıca / Kocaeli",
+          "enabled": true
+        },
+        {
+          "name": "",
+          "enabled": false
+        },
+        {
+          "name": "",
+          "enabled": false
+        },
+        {
+          "name": "",
+          "enabled": false
+        },
+        {
+          "name": "",
+          "enabled": false
+        }
+      ],
+      "cta": {
+        "primary": null,
+        "secondary": null
+      },
+      "trustBadges": [
+        {
+          "title": "Hızlı Çözüm",
+          "description": "Arıza kaydından sonra bekleme süresini azaltır, teşhis ve müdahale adımlarını net biçimde planlarız.",
+          "icon": "clock"
+        },
+        {
+          "title": "Şeffaf Süreç",
+          "description": "İşlem öncesinde sorun tespiti yapar, uygulanacak adımları ve muhtemel süreci açık dille aktarırız.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "Yerel Destek",
+          "description": "Darıca merkezli teknik ekip yapımız sayesinde mahalle bazlı destek taleplerine düzenli ve kontrollü yanıt veririz.",
+          "icon": "map-pin"
+        },
+        {
+          "title": "Veri Güvenliği",
+          "description": "Cihazınızdaki dosyaları korumaya odaklanır, işlem boyunca gizlilik ve dikkat esaslı hareket ederiz.",
+          "icon": "users"
+        },
+        {
+          "title": "Kurumsal Disiplin",
+          "description": "Bireysel ve firma taleplerinde kayıt, takip ve teslim süreçlerini düzenli bir teknik servis standardıyla yürütürüz.",
+          "icon": "monitor"
+        }
+      ]
+    },
+    "seoContent1": "<p>Darıca bilgisayar teknik servis arayışında kullanıcıların önceliği, doğru teşhis ve güvenilir müdahaledir. Bu nedenle sayfamız, masaüstü bilgisayar, dizüstü bilgisayar, ofis sistemleri, ağ problemleri ve parça değişimi gibi gerçek ihtiyaçlara odaklanır. Darıca’nın mahalle yapısına uygun yerel hizmet dili kullanır. Bireysel kullanıcılar kadar işletmelerin yaşadığı hız kaybı, açılmama, veri riski ve donanım arızaları için açıklayıcı, sade ve karar verdiren bilgiler sunar.</p>\n\n<p>Teknik servis seçiminde yalnızca arıza onarımı değil, ulaşılabilirlik ve süreç güveni de belirleyicidir. Bu içerik, Darıca’da bilgisayar tamiri arayan ziyaretçilerin sık karşılaştığı sorulara net cevaplar verir. Yerinde teknik destek, uzaktan bağlantı, bakım planı, kurumsal destek ve hızlı müdahale başlıkları birlikte sunulur. Böylece arama motorları için güçlü bir konu bütünlüğü oluşur, ziyaretçi için de tek sayfada ikna edici ve tatmin edici bir deneyim sağlanır.</p>\n",
+    "services": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Darıca’da arızaya uygun, planlı ve güven veren teknik servis çözümleri.",
+      "description": "Donanım arızasından yazılım sorunlarına kadar, her talepte kontrollü teşhis, açık bilgilendirme ve sürdürülebilir teknik destek sağlıyoruz.",
+      "keywords": [
+        "Server",
+        "Altyapı",
+        "Veri Depolama",
+        "Antivirüs",
+        "Veri Merkezi",
+        "Bilgi Güvenliği",
+        "Veri Yedekleme",
+        "Bilgisayar Tamiri",
+        "Web Tasarım",
+        "BT Destek",
+        "Bulut",
+        "Cloud",
+        "Felaket Yönetimi",
+        "Firewall",
+        "Güvenlik Duvarı",
+        "Kamera Sistemleri",
+        "HotSpot",
+        "IT Destek",
+        "Sunucu Kurulum",
+        "Kablolama",
+        "Web Yazılım",
+        "Kablosuz Ağ",
+        "Kurumsal Bakım Anlaşması",
+        "Kurumsal Mail",
+        "KVKK Danışmanlığı",
+        "Lisanslama",
+        "Network",
+        "Yazılım",
+        "Penetrasyon",
+        "Sanallaştırma",
+        "Server Yönetimi",
+        "Sunucu",
+        "Yapısal Kablolama",
+        "Veri Kurtarma",
+        "Veri Taşıma",
+        "VPN",
+        "Web Hosting",
+        "Yedekleme"
+      ]
+    },
+    "devices": {
+      "title": "Hangi Cihazlara Hizmet Veriyoruz?",
+      "subtitle": "",
+      "items": [
+        {
+          "name": "Laptop",
+          "description": "Tüm marka dizüstü bilgisayarlar.",
+          "icon": "laptop"
+        },
+        {
+          "name": "Masaüstü / PC",
+          "description": "Masaüstü bilgisayar sistemleri.",
+          "icon": "desktop"
+        },
+        {
+          "name": "All in One",
+          "description": "Hepsi bir arada bilgisayarlar.",
+          "icon": "all-in-one"
+        },
+        {
+          "name": "MacBook / iMac",
+          "description": "Apple bilgisayar ve dizüstüler.",
+          "icon": "apple"
+        },
+        {
+          "name": "Yazıcı",
+          "description": "Lazer ve mürekkepli yazıcılar.",
+          "icon": "printer"
+        },
+        {
+          "name": "Modem",
+          "description": "İnternet modem ve router cihazları.",
+          "icon": "modem"
+        },
+        {
+          "name": "Switch / Router",
+          "description": "Ağ anahtarlama ve yönlendirme.",
+          "icon": "switch"
+        },
+        {
+          "name": "NAS / Yedekleme",
+          "description": "Ağ depolama ve yedekleme.",
+          "icon": "nas"
+        },
+        {
+          "name": "Sunucu / Server",
+          "description": "Kurumsal sunucu sistemleri.",
+          "icon": "server"
+        },
+        {
+          "name": "Workstation",
+          "description": "Performanslı iş istasyonları.",
+          "icon": "workstation"
+        },
+        {
+          "name": "Monitör ve Çevre Birimleri",
+          "description": "Ekran, klavye, mouselar.",
+          "icon": "monitor"
+        },
+        {
+          "name": "Acil Destek",
+          "description": "Hızlı ve Profesyonel Destek.",
+          "icon": "zap"
+        }
+      ]
+    },
+    "process": {
+      "title": "Nasıl Çalışırız?",
+      "subtitle": "Arıza kaydından teslim aşamasına kadar planlı bir teknik süreç.",
+      "description": "Talebi alır, sorunu analiz eder, uygun çözümü belirler ve işlem sürecini anlaşılır aşamalarla ilerletiriz.",
+      "steps": []
+    },
+    "features": {
+      "title": "Neden Biz?",
+      "subtitle": "Karar verirken güven, açıklık ve teknik tutarlılık arayanlar için.",
+      "description": "Her işlemde net teşhis, düzenli süreç takibi ve yerel ihtiyaçlara uygun yaklaşım sunarak güven ilişkisini kalıcı hâle getiriyoruz.",
+      "items": []
+    },
+    "technologies": {
+      "title": "Markalar",
+      "subtitle": "Farklı cihaz markalarına uyumlu, dikkatli ve sistemli teknik müdahale.",
+      "description": "Yaygın bilgisayar markalarında görülen arızaları tanır, modele uygun çözüm planı oluşturarak işlem güvenliğini koruruz."
+    },
+    "reviews": {
+      "title": "Müşteri Yorumları",
+      "subtitle": ""
+    },
+    "regions": {
+      "title": "Hizmet Bölgeleri",
+      "subtitle": "Darıca genelinde mahalle odaklı, düzenli ve hızlı teknik servis desteği.",
+      "description": "Merkezden mahallelere uzanan servis planımızla, bireysel kullanıcılar ve işletmeler için erişilebilir teknik destek organizasyonu kuruyoruz."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Darıca’daki kullanıcıların en sık sorduğu teknik servis sorularına net yanıtlar."
+    },
+    "seoContent2": "<p><strong>Bilgisayar Teknik Servis Darıca</strong> arayan kullanıcıların temel beklentisi nettir. Cihaz çalışsın, veri korunsun, süreç uzamasın. Darıca’da yaşayan bireyler ile işletmeler, arıza anında yalnızca bir tamir noktası istemez. <em>Güven veren teknik akış</em> bekler. Biz de bu beklentiye göre hareket ederiz. Açılmayan bilgisayar, yavaşlayan sistem, ısınma sorunu, ağ kopması veya parça arızası fark etmeksizin <u>yerel servis düzeni</u> ile çözüme odaklanırız.</p>\n<p>İkinci beklenti ise belirsizliğin kalkmasıdır. Kullanıcı, cihazının neden sorun çıkardığını bilmek ister. Sürenin ne kadar olacağını merak eder. İşte bu yüzden sayfamız, yalnızca tanıtım metni değildir. Darıca’da teknik destek arayanların karar aşamasını kolaylaştıran bir içerik yapısıdır. <strong>Teşhis, müdahale, bakım ve destek zinciri</strong> tek akışta ele alınır. Böylece ziyaretçi, dağınık bilgi yerine <em>tek sayfada net tablo</em> görür.</p>\n<h2>Darıca Bilgisayar Tamir</h2>\n<p>Darıca bilgisayar tamir hizmeti, yalnızca arızalı parçayı değiştirmekten ibaret değildir. Önce sorunun kaynağı bulunur. Ardından cihazın kullanım geçmişi incelenir. Ev kullanıcılarında açılmama, kırık menteşe, ekran sorunu ve hız düşüşü öne çıkar. İşletmelerde ise ağ uyumsuzluğu, veri erişim problemi ve çevre birimi arızaları sık görülür. <strong>Doğru tamir süreci, doğru teşhisle başlar</strong>. <em>Gelişigüzel müdahale</em> ise hem zamanı hem maliyeti artırır. Bu nedenle Darıca’daki servis yapımızda önce kontrol, sonra uygulama yaklaşımı benimsenir.</p>\n<ul>\n  <li>Donanım arızasında önce bileşen testi yapılır.</li>\n  <li>Yazılım sorunlarında sistem kararlılığı gözden geçirilir.</li>\n  <li>Veri riski varsa işlem önceliği buna göre belirlenir.</li>\n  <li>Kullanıcıya uygulanacak adımlar açık biçimde aktarılır.</li>\n</ul>\n<table>\n  <tr>\n    <th>Arıza Türü</th>\n    <th>İlk Kontrol Noktası</th>\n    <th>Beklenen Yaklaşım</th>\n  </tr>\n  <tr>\n    <td>Açılmama</td>\n    <td>Güç devresi ve adaptör</td>\n    <td>Elektriksel kontrol ve temel test</td>\n  </tr>\n  <tr>\n    <td>Aşırı yavaşlama</td>\n    <td>Disk, bellek, başlangıç yükü</td>\n    <td>Performans analizi ve sistem düzeni</td>\n  </tr>\n  <tr>\n    <td>Isınma</td>\n    <td>Fan, hava kanalı, termal yapı</td>\n    <td>Temizlik ve soğutma değerlendirmesi</td>\n  </tr>\n</table>\n<h2>Darıca Bilgisayar Firmaları</h2>\n<p>Darıca bilgisayar firmaları arasında seçim yaparken yalnızca yakın konum yeterli olmaz. Kullanıcı, karşısında düzenli kayıt alan, açıklama yapan ve işlem mantığını anlatan bir yapı görmek ister. Çünkü teknik servis kararı, güven kararıdır. Cihazın içi açılır, dosyalara temas edilir, kimi zaman iş akışı bu cihaza bağlıdır. <strong>Kurumsal tavır, teknik bilginin görünür hâlidir</strong>. <em>İletişim biçimi</em> zayıf olan bir yer, çoğu zaman süreç yönetiminde de sorun yaşatır. Bu sebeple firma seçimi yapılırken hız kadar disiplin de dikkate alınmalıdır.</p>\n<ol>\n  <li>İlk görüşmede arıza dili net kurulmalıdır.</li>\n  <li>İşlem öncesi temel yol haritası paylaşılmalıdır.</li>\n  <li>Cihaz teslim ve takip süreci karışık olmamalıdır.</li>\n  <li>Kurumsal taleplerde sürdürülebilir destek sunulmalıdır.</li>\n</ol>\n<h2>Darıca Bilgisayar Servisi</h2>\n<p>Darıca bilgisayar servisi arayan biri için en önemli başlıklardan biri erişilebilirliktir. Arıza anı beklemez. Özellikle evden çalışanlar, muhasebe ofisleri, satış noktaları ve okul süreçleri bu tip sorunlardan doğrudan etkilenir. Bu nedenle servis yaklaşımı yalnızca teknik değil, operasyonel de olmalıdır. <strong>Arıza süresini kısaltan şey bilgi kadar organizasyondur</strong>. <em>Yerinde destek</em>, uzaktan bağlantı veya atölye müdahalesi seçeneklerinin doğru kullanılması gerekir. Darıca merkezli yapıda mahalle bazlı ulaşım planı, hizmet kalitesini doğrudan güçlendirir.</p>\n<table>\n  <tr>\n    <th>Hizmet Modeli</th>\n    <th>Tercih Sebebi</th>\n    <th>Uygun Kullanım</th>\n  </tr>\n  <tr>\n    <td>Yerinde Destek</td>\n    <td>Zaman kaybını azaltmak</td>\n    <td>Ofis ve kurumsal sistemler</td>\n  </tr>\n  <tr>\n    <td>Uzaktan Müdahale</td>\n    <td>Hızlı yazılım çözümü</td>\n    <td>Lisans, kurulum, yapılandırma</td>\n  </tr>\n  <tr>\n    <td>Atölye İşlemi</td>\n    <td>Detaylı fiziksel kontrol</td>\n    <td>Anakart, ekran, parça değişimi</td>\n  </tr>\n</table>\n<h2>Darıca Bilgisayar Şirketi</h2>\n<p>Darıca bilgisayar şirketi arayan kurumlar için mesele, tek seferlik tamir değildir. Asıl ihtiyaç, sistemin düzenli işlemesidir. Personelin kullandığı bilgisayarlar, yazıcılar, modemler ve ağ ekipmanları birlikte düşünülmelidir. Bir cihazdaki arıza, tüm akışı aksatabilir. Bu yüzden şirketlere sunulan teknik destek, parça odaklı değil süreç odaklı kurulmalıdır. <strong>İş sürekliliği olan yerde servis mantığı değişir</strong>. <em>Plansız müdahale</em> kısa vadede çözüm gibi görünür, fakat tekrar eden arızalar üretir. Düzenli kontrol, kayıt ve önleyici bakım burada belirleyici olur.</p>\n<ul>\n  <li>Ofis bilgisayarlarında performans kaybı erken tespit edilmelidir.</li>\n  <li>Ağ yapısındaki zayıf halkalar düzenli gözden geçirilmelidir.</li>\n  <li>Kritik cihazlar için bakım takvimi oluşturulmalıdır.</li>\n  <li>Kullanıcı hataları için yönlendirici destek sağlanmalıdır.</li>\n</ul>\n<h2>Darıca Bilgisayar Tamir Servisi</h2>\n<p>Darıca bilgisayar tamir servisi denildiğinde kullanıcıların aklına çoğu kez ekran değişimi veya format gelir. Oysa servis yapısı bunun çok ötesindedir. Güç sorunu, anakart arızası, disk hatası, veri erişim problemi, fan sesi, menteşe kırığı veya sıvı teması gibi birçok başlık profesyonel değerlendirme ister. Her arıza dışarıdan aynı görünmez. <strong>Belirti ile neden çoğu zaman farklıdır</strong>. <em>Doğru analiz</em> yapılmadan başlayan işlem, ikinci arızalara yol açabilir. Bu yüzden Darıca’daki teknik çizgimizde acele karar yerine kontrollü ilerleme esas alınır.</p>\n<h2>Darıca Bilgisayar Şirketleri</h2>\n<p>Darıca bilgisayar şirketleri arasında fark yaratan unsur, teknik bilginin kullanıcıya nasıl aktarıldığıdır. İnsanlar çoğu zaman cihazın iç yapısını bilmez. Fakat dürüst açıklamayı hemen anlar. Net konuşan, riskleri açıkça ifade eden ve gereksiz işlem önermeyen ekipler daha fazla güven üretir. Bu durum yerel arama sonuçlarında da etkilidir. Çünkü kullanıcı davranışı, içerik kadar önemlidir. <strong>Doğru hizmet deneyimi, görünürlüğü besleyen sessiz güçtür</strong>. <em>Memnun ayrılan ziyaretçi</em> geri döner, önerir ve markanın yerel değerini büyütür.</p>\n<table>\n  <tr>\n    <th>Karşılaştırma Ölçütü</th>\n    <th>Zayıf Yapı</th>\n    <th>Güçlü Yapı</th>\n  </tr>\n  <tr>\n    <td>İlk İletişim</td>\n    <td>Belirsiz cevaplar</td>\n    <td>Net yönlendirme</td>\n  </tr>\n  <tr>\n    <td>Arıza Açıklaması</td>\n    <td>Karmaşık anlatım</td>\n    <td>Anlaşılır teknik dil</td>\n  </tr>\n  <tr>\n    <td>Süreç Takibi</td>\n    <td>Düzensiz bilgi akışı</td>\n    <td>Düzenli bilgilendirme</td>\n  </tr>\n</table>\n<h2>Darıca Bilgisayar Tamircisi</h2>\n<p>Darıca bilgisayar tamircisi arayan kullanıcı için ilk kriter çoğu zaman yakındaki servis olur. Fakat yakın olmak tek başına yeterli değildir. Asıl fark, cihazı emanet ettiğiniz kişinin yaklaşımında ortaya çıkar. Sorunu dinleyen, kullanım senaryosunu anlayan ve acele hüküm vermeyen bir teknisyen daha doğru sonuç üretir. <strong>İyi tamirci, yalnızca onaran kişi değildir</strong>. <em>Sorunu okuyan kişi</em> aynı zamanda sonraki riskleri de öngörür. Bu yüzden bireysel kullanıcılar için teknik beceri kadar iletişim kalitesi de önem taşır.</p>\n<ul>\n  <li>Şarj sorunu yaşayan cihazlarda adaptör hattı da kontrol edilir.</li>\n  <li>Sık kapanan sistemlerde ısıl yük ayrıntılı incelenir.</li>\n  <li>Sesli çalışan fanlarda mekanik yıpranma değerlendirilir.</li>\n  <li>Mavi ekran hatalarında yalnızca format önerilmez.</li>\n</ul>\n<h2>Darıca Bilgisayar Firması</h2>\n<p>Darıca bilgisayar firması tercihi yaparken kullanıcıların baktığı bir başka başlık da hizmet çeşitliliğidir. Tek başına onarım yapan bir yapı ile destek, bakım ve danışmanlık sunan yapı aynı değildir. Özellikle şirketler için tek noktadan çözüm akışı ciddi kolaylık sağlar. Yazıcı bağlantısı, ağ düzeni, lisans kurulumu, veri aktarımı ve iş istasyonu bakımı birlikte ele alınmalıdır. <strong>Parçalı hizmet yerine bütünlüklü servis yaklaşımı</strong> daha sağlıklı sonuç verir. <em>Düzenli teknik eşlik</em> sunan yapı, arızayı beklemeden sistem performansını korur.</p>\n<ol>\n  <li>Talep türü belirlenir.</li>\n  <li>Uygun destek modeli seçilir.</li>\n  <li>Teşhis sonrası işlem çerçevesi netleşir.</li>\n  <li>Gerekirse bakım önerisi sunulur.</li>\n</ol>\n<h2>Darıca Bilgisayar Teknik Destek</h2>\n<p>Darıca bilgisayar teknik destek ihtiyacı, yalnızca bozulmuş cihazlarla sınırlı değildir. Yavaşlayan sistemler, güncelleme hataları, lisans sorunları, ağ kopmaları ve çevre birimi uyumsuzlukları da bu başlığın içindedir. Bu nedenle teknik destek, tamirden daha geniş bir alandır. Kullanıcının işini aksatan her dijital kırılma, doğru müdahale ister. <strong>İyi destek, problemi büyümeden durdurur</strong>. <em>Önleyici yaklaşım</em> hem ev kullanıcılarında hem işletmelerde ciddi fayda sağlar. Darıca’daki hizmet kurgumuz, tam da bu ihtiyaca cevap verir.</p>\n<ul>\n  <li>Uzaktan bağlantı ile yazılımsal sorunlar hızla ele alınır.</li>\n  <li>Yerinde müdahale ile fiziksel erişim gereken arızalar çözülür.</li>\n  <li>Kurumsal yapılarda düzenli kontrol planı oluşturulur.</li>\n  <li>Kullanıcıya sade ve uygulanabilir yönlendirme verilir.</li>\n</ul>\n",
+    "seo": {
+      "title": "Darıca Bilgisayar Teknik Servis ve Tamir Servisi",
+      "description": "Darıca Bilgisayar Teknik Servis; bakım, onarım, yerinde destek ve kurumsal çözümlerle Darıca’da hızlı, güvenli, düzenli ve etkili teknik servis sağlar.",
+      "keywords": []
+    },
+    "cta": {
+      "title": "Darıca'da Destek ve Profesyonel Hizmet İçin;",
+      "description": "Hemen Ücretsiz danışmanlık için şimdi iletişime geçin.",
+      "primaryButtonText": "Teklif Al!"
+    },
+    "pricing": {
+      "title": "",
+      "subtitle": "",
+      "description": ""
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Hakkımızda",
+      "subtitle": "Darıca Bilgisayar Teknik Servis olarak yerel ihtiyaçları tanıyor, güven veren teknik destek süreçlerini açık iletişim ve düzenli takip ilkesiyle yönetiyoruz."
+    },
+    "content": {
+      "description": "Darıca Bilgisayar Teknik Servis, arızalanan bilgisayarlar için güven veren, düzenli ve yerel odaklı teknik çözümler sunmak amacıyla yapılandırılmış bir servis markasıdır. Bireysel kullanıcıların günlük ihtiyaçlarını, işletmelerin ise süreklilik beklentisini dikkate alırız. Teşhis, bakım, onarım ve destek süreçlerinde açık iletişim kurar, cihaz güvenliğini ön planda tutarız. Darıca’nın mahalle yapısını bilen servis yaklaşımımızla hızlı erişim, net bilgilendirme ve düzenli takip sağlamayı esas alırız.",
+      "mission": "Darıca’da güven veren, düzenli ve çözüm odaklı teknik destek sunmak.",
+      "vision": "Yerel güveni güçlü teknik altyapıyla birleştiren öncü servis markası olmak.",
+      "values": [],
+      "valuesSubtitle": "Açıklık, dikkat, zaman disiplini ve veri güvenliği temelinde ilerleyen kalıcı bir servis anlayışı benimsiyoruz."
+    },
+    "seo": {
+      "title": "Hakkımızda",
+      "description": "Darıca Bilgisayar hakkında bilgi alın. Yerel destek anlayışı, güvenli süreç yönetimi ve teknik çözüm odaklı servis yaklaşımı.",
+      "keywords": []
+    }
+  },
+  "privacy": {
+    "hero": {
+      "title": "Gizlilik Politikası",
+      "subtitle": "Kişisel verilerin işlenmesi, saklanması ve korunmasına dair esasları açık, anlaşılır ve kurumsal bir çerçevede bu sayfada sunuyoruz.\n"
+    },
+    "content": "<p>Darıca Bilgisayar Teknik Servis olarak kullanıcı bilgilerinin korunmasını temel sorumluluk kabul ederiz. Bu politika, web sitemizi ziyaret eden, teklif formu dolduran, iletişim kuran veya teknik servis talebi oluşturan kişilere ait verilerin hangi çerçevede işlendiğini açıklar.</p><h2>Toplanan Veriler</h2><p>İletişim formları, teklif talepleri, telefon görüşmeleri ve teknik servis süreçleri sırasında ad, soyad, telefon numarası, e-posta adresi, cihaz bilgisi, arıza açıklaması ve gerektiğinde fatura bilgileri alınabilir.</p><h2>Veri İşleme Amaçları</h2><ul><li><p>Teknik servis talebini değerlendirmek</p></li><li><p>Kullanıcıyla iletişim kurmak</p></li><li><p>Teklif, bilgilendirme ve randevu sürecini yürütmek</p></li><li><p>Hizmet kalitesini geliştirmek</p></li><li><p>Yasal yükümlülükleri yerine getirmek</p></li></ul><h2>Cihaz İçeriği ve Veri Güvenliği</h2><p>Servise teslim edilen cihazlarda bulunan kişisel dosyalar, ticari belgeler ve hesap bilgileri gizlilik esasıyla değerlendirilir. Teknik işlem zorunluluğu dışında dosya içeriğine müdahale edilmez. <strong>Kullanıcı verisinin korunması temel ilkemizdir</strong>. Gerekli hâllerde işlem öncesi kullanıcı bilgilendirilir.</p><h2>Çerez ve Analitik Veriler</h2><p>Web sitesi kullanım deneyimini iyileştirmek, performans ölçmek ve temel analizler yapmak amacıyla teknik çerezler ile sınırlı istatistik verileri işlenebilir. Ayrıntılar çerez politikasında ayrıca açıklanır.</p><h2>Veri Paylaşımı</h2><p>Kişisel veriler, yasal zorunluluk olmadıkça üçüncü taraflara satılmaz. Hukuki yükümlülük, resmî talep veya hizmetin zorunlu teknik gereği dışında kullanıcı bilgileri paylaşılmaz.</p><h2>Veri Saklama Süresi</h2><p>Bilgiler, işleme amacı ortadan kalktığında veya ilgili yasal saklama süresi tamamlandığında silinir, yok edilir ya da anonim hâle getirilir.</p><h2>Kullanıcı Hakları</h2><p>Kullanıcılar, kendileriyle ilgili veri işlenip işlenmediğini öğrenme, düzeltme talep etme, silinmesini isteme ve işleme itiraz etme hakkına sahiptir. Başvurular, iletişim kanallarımız üzerinden iletilebilir.</p><h2>Politika Güncellemeleri</h2><p>Bu metin, hizmet yapısındaki değişikliklere göre güncellenebilir. Güncel sürüm, web sitemizde yayımlanan metindir.</p>",
+    "seo": {
+      "title": "Gizlilik Politikası",
+      "description": "Gizlilik politikası sayfasında veri işleme, saklama, kullanıcı hakları ve güvenlik süreçlerine dair bilgilere ulaşın.",
+      "keywords": []
+    }
+  },
+  "cookies": {
+    "hero": {
+      "title": "Çerez Politikası",
+      "subtitle": "Web sitemizde kullanılan çerez türlerini, kullanım amaçlarını ve tercih yönetimine ilişkin esasları anlaşılır bir yapı içinde açıklıyoruz.\n"
+    },
+    "content": "<p>Darıca Bilgisayar Teknik Servis web sitesinde kullanılan çerezler, kullanıcı deneyimini düzenlemek, temel performans ölçümleri yapmak ve site işlevlerini sağlıklı biçimde yürütmek amacıyla kullanılabilir. Bu politika, çerezlerin türünü ve kullanım amaçlarını açıklar.</p><h2>Çerez Nedir?</h2><p>Çerez, ziyaret edilen web siteleri tarafından tarayıcıya kaydedilen küçük veri dosyasıdır. Bu dosyalar sayesinde tercih bilgileri korunabilir ve site performansı ölçülebilir.</p><h2>Kullanılan Çerez Türleri</h2><ul><li><p>Zorunlu çerezler</p></li><li><p>Tercih çerezleri</p></li><li><p>Analitik çerezler</p></li><li><p>Oturum yönetimi çerezleri</p></li></ul><h2>Çerez Kullanım Amaçları</h2><p>Siteyi güvenli biçimde çalıştırmak, formların doğru işlemesini sağlamak, kullanıcı tercihlerini hatırlamak ve hangi sayfaların daha fazla ilgi gördüğünü analiz etmek temel amaçlarımız arasındadır.</p><h2>Üçüncü Taraf Araçlar</h2><p>Analitik, performans veya ölçümleme hizmeti sunan bazı üçüncü taraf araçlar çerez kullanabilir. Bu araçların kullandığı veriler, ilgili hizmet sağlayıcının kendi politikalarına tabi olabilir.</p><h2>Çerez Tercihleri</h2><p>Kullanıcılar, tarayıcı ayarları üzerinden çerezleri sınırlandırabilir, silebilir veya tamamen kapatabilir. Ancak bazı çerezlerin devre dışı bırakılması, sitenin belirli işlevlerinde aksama oluşturabilir.</p><h2>Politika Güncellemeleri</h2><p>Çerez kullanım yapımız değiştiğinde bu metin güncellenir. Güncel metin, web sitemizde yayımlanan sürümdür.</p>",
+    "seo": {
+      "title": "Çerez Politikası",
+      "description": "Çerez politikası ile kullanılan çerez türlerini, amaçlarını ve tarayıcı tercihlerinizi nasıl yönetebileceğinizi inceleyin.",
+      "keywords": []
+    }
+  },
+  "sitemap": {
+    "hero": {
+      "title": "Site Haritası",
+      "subtitle": "Web sitemizde yer alan hizmet, kurumsal ve bilgi sayfalarına düzenli erişim sağlamak için hazırlanan yönlendirme yapısını burada bulabilirsiniz."
+    },
+    "seo": {
+      "title": "Site Haritası",
+      "description": "Site haritası üzerinden hizmet sayfaları, kurumsal içerikler ve önemli bağlantılara hızlı biçimde erişebilirsiniz.",
+      "keywords": []
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "İletişim",
+      "subtitle": "Teknik destek talebi, bilgi alma, servis kaydı ve kurumsal görüşmeler için iletişim kanallarımıza bu sayfa üzerinden ulaşabilirsiniz."
+    },
+    "info": {
+      "description": "..."
+    },
+    "form": {
+      "description": "..."
+    },
+    "maps": {
+      "iframe": ""
+    },
+    "seo": {
+      "title": "İletişim",
+      "description": "İletişim sayfasından teknik destek, servis kaydı, teklif talebi ve kurumsal görüşmeler için bize ulaşın.",
+      "keywords": []
+    }
+  },
+  "footer": {
+    "title": "Darıca Bilgisayar Teknik Servis",
+    "description": "Darıca Bilgisayar Teknik Servis, bireysel kullanıcılar ve kurumsal işletmeler için güven veren teknik destek sunar. Arıza tespiti, bakım, onarım ve yerinde müdahale süreçlerini düzenli, anlaşılır ve profesyonel çözüm odaklı biçimde yürütür."
+  }
+}

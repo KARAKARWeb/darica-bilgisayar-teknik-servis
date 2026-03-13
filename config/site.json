@@ -1,0 +1,28 @@
+{
+  "site": {
+    "name": "Darıca Bilgisayar Teknik Servis",
+    "domain": "daricabilgisayarteknikservis.com.tr",
+    "district": "Darıca",
+    "city": "Kocaeli"
+  },
+  "contact": {
+    "phone": "0545 181 4040",
+    "email": "info@daricabilgisayarteknikservis.com.tr",
+    "whatsapp": "https://wa.me/905451814040?text=Merhaba",
+    "address": "Osman Gazi Mah. Hasan Tahsin Cad. No:20 41700 Darıca/Kocaeli"
+  },
+  "seo": {
+    "metaTitle": "Darıca Bilgisayar Teknik Servis ve Tamir Servisi",
+    "metaDescription": "Darıca Bilgisayar Teknik Servis; bakım, onarım, yerinde destek ve kurumsal çözümlerle Darıca’da hızlı, güvenli, düzenli ve etkili teknik servis sağlar.",
+    "keywords": [
+      ""
+    ]
+  },
+  "analytics": {
+    "googleAnalytics": "G-C29JBS6WDD",
+    "googleTagManager": ""
+  },
+  "searchConsole": {
+    "verificationCode": "T6WBEUxIkpJ5SZydFp2C7RCm3JLSJbGj6UVRIUys8Eg"
+  }
+}
